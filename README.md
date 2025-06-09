@@ -1,16 +1,25 @@
-# kuri_app
+# 💰 Kuri App – Smart Group Savings Manager
 
-A new Flutter project.
+Kuri App is a Flutter-based application designed to help users manage **kuri** (chit fund) groups with ease. Whether you're running a family-based kuri or handling a community savings scheme, this app offers the right tools to track participants, amounts, and progress effortlessly.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📦 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📋 **Create and Manage Kuris**
+  - Add new kuri groups with names, amounts, and participant count.
+  
+- 👥 **Add Members Easily**
+  - Assign names to participants for clarity and transparency.
+  
+- 💰 **Automatic Commitment Calculation**
+  - Keep track of how much is owed each month by each member.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📈 **Track Progress**
+  - View how many rounds are completed and how much money has been collected.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📆 **Upcoming Due Dates**
+  - Show next due date (static for now, future updates planned).
+
+- 🧠 **Offline-First with Hive (Coming Soon)**
+  - Lightweight local database for storing and retrieving data efficiently.
